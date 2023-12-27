@@ -365,7 +365,7 @@ menu.addEventListener("click",function () {
    
    
 })
-window.addEventListener("click",function () {
+body.addEventListener("click",function () {
 
    items.style.opacity=0;
    items.style.display="none";
