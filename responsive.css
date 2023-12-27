@@ -1,7 +1,11 @@
                 /*for phone*/
-@media screen and (width<=400px) {
+@media screen and (width<=450px) {
   body{
-    max-width: 300px;
+    background-color: green;
+     width: 160vh !important;
+     overflow-y: scroll;
+     height: 620vh !important;
+   
   }  
   
   .links {
@@ -17,6 +21,8 @@
     display: none;
    }    
    .menu{
+    scale: 2;
+    
     display: block;
    }
    .drop-box{
@@ -34,9 +40,9 @@
     
    }
    .line>p{
-    margin-left: 1vh;
-    scale: 1.1;
-    font-size: 8vh;
+    margin-left: 20vh;
+    scale: 2;
+    font-size: 18vh;
    }
    .contnd{
     margin-top: 97.7vh;
