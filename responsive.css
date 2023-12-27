@@ -2,7 +2,7 @@
 @media screen and (width<=450px) {
   body{
     background-color: green;
-    max-width: 80vh;
+    max-width: 100ch;
     margin-left: 25vh;
      overflow-y: scroll;
      height: 620vh !important;
