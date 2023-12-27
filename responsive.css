@@ -3,7 +3,7 @@
   body{
     background-color: green;
     max-width: 80vh;
-    margin-left: 13vh;
+    margin-left: 25vh;
      overflow-y: scroll;
      height: 620vh !important;
      display: flex;
