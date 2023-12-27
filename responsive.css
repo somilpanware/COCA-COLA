@@ -2,9 +2,14 @@
 @media screen and (width<=450px) {
   body{
     background-color: green;
-     width: 160vh !important;
+    max-width: 80vh;
+    margin-left: 6vh;
      overflow-y: scroll;
      height: 620vh !important;
+     display: flex;
+  
+     
+     
    
   }  
   
@@ -21,8 +26,8 @@
     display: none;
    }    
    .menu{
-    scale: 2;
-    
+    scale: 1.5;
+    margin-left: -40vh;
     display: block;
    }
    .drop-box{
@@ -35,8 +40,9 @@
    .home-photo>img{
     margin-left: 6vh;
     margin-top: 28vh;
-    height: 36vh;
-    width: 36vh;
+    height: 46vh;
+    width: 46vh;
+    scale: 2;
     
    }
    .line>p{
