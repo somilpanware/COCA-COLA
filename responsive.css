@@ -2,12 +2,12 @@
 @media screen and (width<=450px) {
   body{
     background-color: green;
-    max-width: 100ch;
-    margin-left: 25vh;
-     overflow-y: scroll;
-     height: 620vh !important;
-     display: flex;
-    zoon:0 !important;
+    max-width: 200ch !important;
+   
+    
+     height: 540ch ;
+   
+    
   
      
      
@@ -28,7 +28,7 @@
    }    
    .menu{
     scale: 1.5;
-    margin-left: -40vh;
+   
     display: block;
    }
    .drop-box{
@@ -39,17 +39,17 @@
     margin-top: -5vmin;
    }
    .home-photo>img{
-    margin-left: 6vh;
+    margin-left: -10vh;
     margin-top: 28vh;
-    height: 46vh;
-    width: 46vh;
+    height: 26vh;
+    width: 26vh;
     scale: 2;
     
    }
    .line>p{
-    margin-left: 20vh;
-    scale: 2;
-    font-size: 18vh;
+    margin-left: -14vh;
+    scale: 3;
+    font-size: 6vh;
    }
    .contnd{
     margin-top: 97.7vh;
