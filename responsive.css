@@ -1,11 +1,11 @@
                 /*for phone*/
 @media screen and (width<=450px) {
   body{
-    background-color: green;
+    
     max-width: 200ch !important;
    
     
-     height: 540ch ;
+     height: 440ch ;
    
     
   
@@ -40,7 +40,7 @@
    }
    .home-photo>img{
     margin-left: -10vh;
-    margin-top: 28vh;
+    margin-top: 25vh;
     height: 26vh;
     width: 26vh;
     scale: 2;
@@ -52,66 +52,76 @@
     font-size: 6vh;
    }
    .contnd{
-    margin-top: 97.7vh;
+    margin-top: 68vh;
    }
    .contnd>p{
-    margin-left: 6vh;
+    margin-left: -12vh;
+    font-size: 6vh;
    }
    
    .side-img>img{
     margin-top: -1vh;
     
-    height: 50vmax;
-    width: 40vmax;
-    margin-left: -26vh;
+    height: 20vmax;
+    width: 20vmax;
+    margin-left: -35vh;
     border-radius: 10%;
    }
    .side-img>p{
-    margin-top: 16vh;
-    font-size: 3vh;
+    width: 20vh;
+    margin-left: -6vh;
+    margin-top: 10vh;
+    font-size: 2vh;
+    
    }
    .explore-button{
-    height: 6vh;
-    width: 25vh;
+    height: 3vh;
+    width: 20vh;
 
-      margin: 40vh 27vh;
-      font-size: 3vh;
+      margin: 20vh -5vh;
+      font-size: 2vh;
    }
    
    .left-photo>p{
-      margin-left: 5vh;
-      font-size: 6vh;
+      margin-left: -12vh;
+      font-size: 4vh;
+      
    }
    .second-photo{
-    width: 65vh;
+    width: 70%;
+    height: 5%;
     position: relative;
-    margin-left: 1vh;
-    background-color: green;
+    margin-left: 2vh;
+   
     
    
    }
    .second-photo>p{
-    font-size: 4vh;
+    font-size: 2vh;
     color: black;
-    margin: -46vh 0vh;
-    width: 70vh;
-    height: 10vh;
+    margin: -30vh 6vh;
+    width: 70%;
+    height: 5%;
    }
    .brands{
     margin-top: 15vh;
-    margin-left: 6vh;
-    height: 80vh;
-    width: 100vh;
+    margin-left: 1vh;
+    height: 50vh;
+    width: 60vh;
+    display: flex;
+    flex-direction: row;
    }
    .brands>.br{
-    height: 30vh;
-    width: 30vh;
+    height: 20vh;
+    width: 20vh;
    }
    .br>img{
     margin: 2vh 2vh;
-    scale: 1.2;
+    scale: 1.3;
    }
    .para{
+    width: 44vh;
+    margin-left: -7vh;
     margin-top: 10vh;
    }
    .new-box1{
@@ -132,22 +142,26 @@
    .new-box6{
     opacity: 0 !important;
    }
+
    .footer img{
-    height: 5vh;
-    width: 5vh;
+    margin-left: -40vh;
+    height: 3vh;
+    width: 3vh;
 
    }
    .footer>.link{
+    margin-left: 6vh;
     margin-top: 5vh;
     font-size: 2vh;
 
    }
    #line1{
+    margin-left: 14%;
     margin-top: 3vh;
    }
    #line2{
-    margin-left: 2.5vh;
-    margin-top: 13vh;
+    margin-left: 3%;
+    margin-top: 11vh;
    }
    .footer>p{
     margin-left: 2vh;
